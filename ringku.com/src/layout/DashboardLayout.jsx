@@ -27,7 +27,7 @@ const DashboardLayout = ({children}) => {
 			path: "recent-transactions"
 		}]
 	return (
-		<main className="flex h-screen">
+		<main className="flex h-full">
 			<div className="bg-blue w-1/4 flex flex-col justify-between">
 				<header className="flex flex-col">
 					<div className="flex items-center justify-between p-6">

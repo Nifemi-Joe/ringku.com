@@ -30,6 +30,38 @@ a {
   background: #D1493D;
 }
 
+.bg-dark-purple {
+  background: #F7F8FD;
+}
+
+.bg-light-purple{
+  background: #B8B6F7;
+}
+
+.bg-purple {
+  background: #4F46E5;
+}
+
+.text-black {
+  color: #121212
+}
+
+.text-grey {
+  color: #5B6776;
+}
+
+.text-blue {
+  color: #344055;
+}
+
+.text-light-purple {
+  color: #B8B6F7;
+}
+
+.text-purple {
+  color: #4F46E5;
+}
+
 .text-xxs {
   font-size: 10px;
   line-height: 16px;
@@ -54,4 +86,12 @@ header a:focus {
 button {
   outline: none;
   border: none;
+}
+
+.box-shadow-1{
+  box-shadow: 0px 1px 3px rgba(16, 24, 40, 0.1);
+}
+
+.box-shadow-2{
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.06);
 }
